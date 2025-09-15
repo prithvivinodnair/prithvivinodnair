@@ -56,5 +56,5 @@ Concepts & Techniques: Generative AI, Data‑driven decision making, Natural Lan
 
 📫 Get in Touch
 
-Feel free to connect with me on LinkedIn
+Feel free to connect with me on LinkedIn - https://www.linkedin.com/in/prithvi-vinod-nair-58751323b/
 . I'm always excited to collaborate on data‑driven projects or discuss innovative uses of AI.
