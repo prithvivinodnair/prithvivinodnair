@@ -46,7 +46,7 @@ I upgraded hardware and software to reduce system downtime by 30 % and analyzed
 
 ## 🛠️ Skills & Certifications
 
-Certifications: AWS Certified Cloud Practitioner, Advanced SQL (HackerRank), Microsoft Power BI (Udemy)
+Certifications: AWS Certified Cloud Practitioner, AWS Certified Data Engineer - Associate, AWS Certified Cloud Practitioner, Advanced SQL (HackerRank), Microsoft Power BI (Udemy)
 
 Programming & Frameworks: Python, R, SQL (MySQL & Spark SQL), Next.js/React, FastAPI, Pydantic, Axios, Selenium
 
